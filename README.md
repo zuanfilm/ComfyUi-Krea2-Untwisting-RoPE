@@ -4,13 +4,10 @@ This is a ComfyUi implementation of [Untwisting RoPE: Frequency Control for Shar
 
 https://untwisting-rope.github.io/
 
-<img width="1280" alt="Image 4" src="https://github.com/user-attachments/assets/ea4b7f49-45b0-4812-845b-0bd58824f27c" />
 <img width="1024" height="475" alt="Krea2 Style transfer Untwinsting RoPE-Compare_00017_" src="https://github.com/user-attachments/assets/25a5dc3d-1ea9-4f10-b84f-ea0cd400356f" />
 <img width="1024" height="491" alt="Krea2 Style transfer Untwinsting RoPE-Compare_00049_" src="https://github.com/user-attachments/assets/b058dedb-f840-4dd2-b1e3-404810b85b1a" />
 <img width="1024" height="242" alt="Krea2 Style transfer Untwinsting RoPE-Compare_00084_" src="https://github.com/user-attachments/assets/0685fd82-a915-401f-aca3-7cf771e57519" />
 <img width="1024" height="242" alt="Krea2 Style transfer Untwinsting RoPE-Compare_00082_" src="https://github.com/user-attachments/assets/e099cee0-aac8-4f26-ae66-518bca08014f" />
-
-
 
 
 
