@@ -38,4 +38,4 @@ https://github.com/BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced
 
 https://github.com/BigStationW/ComfyUi-TextEncodeEditAdvanced
 
-Don't hesitate to consult [the documentation](https://github.com/BigStationW/ComfyUi-Untwisting-RoPE/tree/main/documentation) to better understand this repository.
+Updated Krea.py from development by Reddit user Winter_unmuted
